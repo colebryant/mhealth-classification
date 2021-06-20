@@ -1,6 +1,6 @@
 # Predicting Human Activity from Wearable Sensor Data - Source Code
 
-### Project Description:
+### Abstract:
 
 The aim of this project was to accurately classify sensor input data from the MHEALTH dataset into one of a number of physical activity classes. After performing exploratory data analysis, creating relevant visualizations, and preprocessing the data, I proceeded to train and tune a range of classification models on the data in order to achieve the best results. The models I utilized included Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest ensemble, and Convolutional Neural Network (CNN). I compare the performance of these models based on common classification metrics, especially cross-validated accuracy score. Most of the models were able to achieve my goal of over 90% accuracy, with the CNN achieving the best performance overall, followed by Random Forest and SVM. Further model validations and implementing proven strategies on time series data would likely benefit this analysis in the future.
 
