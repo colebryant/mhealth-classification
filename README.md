@@ -17,3 +17,7 @@ The aim of this project was to accurately classify sensor input data from the MH
 * The CNNModeling file ran in Google Colab GPU environment in order to obtain better performance training the CNNs. Mileage may vary for running locally
 * Referenced articles / sources are included in code cell comments
 * Associated project paper available upon request!
+
+### Link to Presentation:
+
+https://www.youtube.com/watch?v=L2B5gp-VxxQ&ab_channel=ColeBryant
