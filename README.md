@@ -21,3 +21,4 @@ The aim of this project was to accurately classify sensor input data from the MH
 ### Link to Presentation:
 
 https://www.youtube.com/watch?v=L2B5gp-VxxQ&ab_channel=ColeBryant
+(recommend x1.5 speed)
